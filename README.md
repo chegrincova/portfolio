@@ -42,4 +42,5 @@ ___жирный курсив___
 
 
 [Первый проект](https://github.com/chegrincova/portfolio/tree/main/01%20-%20First%20Project)
+
 [Второй проект](https://github.com/chegrincova/portfolio/tree/main/02%20-%20Second%20Project)
